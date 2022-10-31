@@ -2,7 +2,7 @@ package MyWorks;
 
 import java.util.Scanner;
 
-public class ex2_5 {
+public class Ex2_5 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Введите промежуточный итог и ставку чаевых: ");

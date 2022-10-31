@@ -2,7 +2,7 @@ package MyWorks;
 
 import java.util.Scanner;
 
-public class ex2_9 {
+public class Ex2_9 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Введите начальную скорость, конечную скорость и время: ");

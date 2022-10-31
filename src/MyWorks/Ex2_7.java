@@ -2,7 +2,7 @@ package MyWorks;
 
 import java.util.Scanner;
 
-public class ex2_7 {
+public class Ex2_7 {
     public static void main(String[] args) {
         int year;
         int minute;

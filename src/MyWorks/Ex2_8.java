@@ -4,7 +4,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
 
-public class ex2_8 {
+public class Ex2_8 {
     public static void main(String[] args) {
         System.out.println("Дата и время: ");
         SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");

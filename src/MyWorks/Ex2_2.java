@@ -2,7 +2,7 @@ package MyWorks;
 
 import java.util.Scanner;
 
-public class ex2_2 {
+public class Ex2_2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         final double pi = 3.14;
